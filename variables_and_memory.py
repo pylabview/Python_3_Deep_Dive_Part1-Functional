@@ -1,6 +1,5 @@
 # The id function returns the memory address 
 #Exmaple
-
 import ctypes
 import sys
 
